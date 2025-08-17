@@ -16,9 +16,3 @@ Repositório para realização da primeira atividade (01) do cp4 na disciplina d
    ```bash
    RM 557298
    ```
-
-3. Matheus de Freitas Silva
-
-   ```bash
-   RM 552602
-   ```
