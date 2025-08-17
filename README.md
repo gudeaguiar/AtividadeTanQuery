@@ -1,4 +1,4 @@
-# Atividade 1 do CP4 de Mobile Telefone
+# Atividade 1 do CP4 de Mobile
 
 Repositório para realização da primeira atividade (01) do cp4 na disciplina de mobile.
 
